@@ -1,0 +1,11 @@
+h3,h6,p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+} 
+
+body {
+    background-color: #f0f0f0
+}
+
